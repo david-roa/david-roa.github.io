@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1563775865924,
+  "timestamp": 1564177075316,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -8,13 +8,16 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "/3-es5.7f83cbca468ee6b1d9de.js",
+        "/4-es2015.634e0c984c8f27d7b31e.js",
+        "/firebase-messaging-sw.js",
         "/index.html",
-        "/main-es2015.952b91b613c178413241.js",
-        "/main-es5.cf8d1eebab5b8e3e7b52.js",
+        "/main-es2015.8bb60b5a66f34e20c6a5.js",
+        "/main-es5.df0857bc29d951558821.js",
         "/polyfills-es2015.4d31cca2afc45cfd85b5.js",
         "/polyfills-es5.2219c87348e60efc0076.js",
-        "/runtime-es2015.703a23e48ad83c851e49.js",
-        "/runtime-es5.465c2333d355155ec5f3.js",
+        "/runtime-es2015.14aa3f52323dd9f0d66d.js",
+        "/runtime-es5.cccab83dd12456bbc2bb.js",
         "/styles.9f3aff64c9f83055277d.css"
       ],
       "patterns": []
@@ -1657,6 +1660,7 @@
         "/assets/icons/icon-72x72.png",
         "/assets/icons/icon-96x96.png",
         "/assets/image/Fito-Paez-01.jpeg",
+        "/assets/image/badge.png",
         "/assets/image/david-logo-banner.png",
         "/assets/image/david-logo-circle.png",
         "/assets/image/david-logo-dark.png",
@@ -1669,6 +1673,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/3-es5.7f83cbca468ee6b1d9de.js": "b87cabab41950a14576be34566a01e41e5d3c5bf",
+    "/4-es2015.634e0c984c8f27d7b31e.js": "abd42791d89f504ded5590ede598ca1a10108f33",
     "/assets/fonts/fontawesome-free-5.9.0-web/LICENSE.txt": "9907c55306fffb685ce0e06c9e469475035d5fa6",
     "/assets/fonts/fontawesome-free-5.9.0-web/css/all.css": "3b3b8a6b682cf7eb51ce10e9cb69a36da7d374ee",
     "/assets/fonts/fontawesome-free-5.9.0-web/css/all.min.css": "2c43148f7df780e8b40a3ab09c770f03adbf11af",
@@ -3302,19 +3308,21 @@
     "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
     "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
     "/assets/image/Fito-Paez-01.jpeg": "7db56fca7bea862384d4ae854f03b0b6772660c4",
+    "/assets/image/badge.png": "2b46ff73ed1c01e98062a8348d29a54f11f95206",
     "/assets/image/david-logo-banner.png": "e52267388052eaa3ebb555ff6bbba6c4dd1f4c4d",
     "/assets/image/david-logo-circle.png": "93794e40e8198ca67a389bfb9c756c4bbbf8e2a8",
     "/assets/image/david-logo-dark.png": "a1bf0c1bb1b7e8a769181f6139c14373794ba419",
     "/assets/image/david-logo-primary.png": "38a57709f93dbd79c88d7ff585e808957633d007",
     "/assets/image/david-profile-photo.jpeg": "6fc7f059b64bb62a495b428575dda8fae69a20e9",
     "/david-logo-banner.5f1633152c5326805264.png": "e52267388052eaa3ebb555ff6bbba6c4dd1f4c4d",
-    "/index.html": "4a743b545caef70a3b88adbe7265d215a3077d58",
-    "/main-es2015.952b91b613c178413241.js": "d8e2781b76273065a85f145c89d45395ec11a8b4",
-    "/main-es5.cf8d1eebab5b8e3e7b52.js": "0a157a2c24fb6db8dead703e68d4a745d25a2423",
+    "/firebase-messaging-sw.js": "5e839718035c8abdf183f48541db487f19cded30",
+    "/index.html": "c4e36bb0b596076c5bfaa052adfff1c09bc84c52",
+    "/main-es2015.8bb60b5a66f34e20c6a5.js": "37ab84852ea0c1ae7698a761a83760cf4d1252a7",
+    "/main-es5.df0857bc29d951558821.js": "7ab08c50f00f5323ea79344df2d0e8675d0da1c2",
     "/polyfills-es2015.4d31cca2afc45cfd85b5.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
     "/polyfills-es5.2219c87348e60efc0076.js": "6c9688c6586bfcf669879655ba5874ef1d2b4bcf",
-    "/runtime-es2015.703a23e48ad83c851e49.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
-    "/runtime-es5.465c2333d355155ec5f3.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es2015.14aa3f52323dd9f0d66d.js": "bc0380dddce4dc87fb72abf4e5587c8335cdb592",
+    "/runtime-es5.cccab83dd12456bbc2bb.js": "c6f0fb4bd0d5d3f06861881d44db97d24e24705b",
     "/styles.9f3aff64c9f83055277d.css": "59670a8bb72e199e97604db3fc849fc61829d9a4"
   },
   "navigationUrls": [

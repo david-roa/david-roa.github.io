@@ -26,6 +26,5 @@ messaging.setBackgroundMessageHandler(function(payload) {
         badge: 'assets/image/badge.png'
     };
 
-    return self.registration.showNotification(notificationTitle,
-        notificationOptions);
+    return self.registration.showNotification(notificationTitle, notificationOptions);
 });

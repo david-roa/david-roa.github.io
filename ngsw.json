@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1564443256057,
+  "timestamp": 1564673854576,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -12,13 +12,14 @@
         "/4-es2015.634e0c984c8f27d7b31e.js",
         "/firebase-messaging-sw.js",
         "/index.html",
-        "/main-es2015.97c492909f70098a0ace.js",
-        "/main-es5.617da12c6019902d0f65.js",
+        "/main-es2015.898be56aa4d6c691a030.js",
+        "/main-es5.889e750b2224bee3b81c.js",
         "/polyfills-es2015.4d31cca2afc45cfd85b5.js",
         "/polyfills-es5.2219c87348e60efc0076.js",
         "/runtime-es2015.14aa3f52323dd9f0d66d.js",
         "/runtime-es5.cccab83dd12456bbc2bb.js",
-        "/styles.9f3aff64c9f83055277d.css"
+        "/scripts.7f97e359278274fc36f7.js",
+        "/styles.82128bfa6924a94054f0.css"
       ],
       "patterns": []
     },
@@ -1651,6 +1652,7 @@
         "/assets/fonts/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.ttf",
         "/assets/fonts/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.woff",
         "/assets/fonts/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.woff2",
+        "/assets/fonts/froala/style.css",
         "/assets/icons/csv.png",
         "/assets/icons/excel.png",
         "/assets/icons/icon-128x128.png",
@@ -3308,8 +3310,9 @@
     "/assets/fonts/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.ttf": "b7f728ec591ed9dd9028ed3deb6a536d0038c8d6",
     "/assets/fonts/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.woff": "0f6fcbf47ded1a1c6ace0f67383d512b6a053dad",
     "/assets/fonts/fontawesome-free-5.9.0-web/webfonts/fa-solid-900.woff2": "07bed153d47f9129a944ee54dd72952deed074c8",
+    "/assets/fonts/froala/style.css": "2e8f8259467701f1798c9a2743159359cb12c233",
     "/assets/icons/csv.png": "0375eec6eb7fd977f2c47a8568bbac9a4722c402",
-    "/assets/icons/excel.png": "2607c7f742a5811bbaf8f602a83e97d803ea6881",
+    "/assets/icons/excel.png": "318a0abcfa0e8559070f0aced0feeafdb545d106",
     "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
     "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
     "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
@@ -3321,7 +3324,7 @@
     "/assets/icons/pdf.png": "6a1044e8a72eefe6978cb879b7fdd193e575a601",
     "/assets/icons/ppt.png": "69b257569386849b428ff856f000f784c134d569",
     "/assets/icons/rar.png": "9dfd514a9e16578b9a9976cd4eac05506c91ad40",
-    "/assets/icons/word.png": "fc9f33ac9990e0be7523e9ef57936d8771c963b9",
+    "/assets/icons/word.png": "e820a6df8be3c666b6b54eb98fc7ea77fd84c044",
     "/assets/icons/zip.png": "44dc3716dce4420ae3b0dedcdae796e703f895ab",
     "/assets/image/Fito-Paez-01.jpeg": "7db56fca7bea862384d4ae854f03b0b6772660c4",
     "/assets/image/badge.png": "2b46ff73ed1c01e98062a8348d29a54f11f95206",
@@ -3333,14 +3336,15 @@
     "/assets/image/user.gif": "5fb2bc2ffed5fbf2147721cee71a739e80850ab8",
     "/david-logo-banner.5f1633152c5326805264.png": "e52267388052eaa3ebb555ff6bbba6c4dd1f4c4d",
     "/firebase-messaging-sw.js": "259ba18f002027feae2e03ada95b025598e3d55e",
-    "/index.html": "cee11c5ccbc35c856ecc485057f3efbee946dafa",
-    "/main-es2015.97c492909f70098a0ace.js": "5832bd76b7ea1a126b2d6c5723e2df2ec175bc90",
-    "/main-es5.617da12c6019902d0f65.js": "f7946efa72bbd079695928bd495805f049ea6219",
+    "/index.html": "edb6a124aa30314cc1d14c9dbe3af50d52bbcaa8",
+    "/main-es2015.898be56aa4d6c691a030.js": "feca81448cc32caed65955908a88487b8dbccfd5",
+    "/main-es5.889e750b2224bee3b81c.js": "558f1b81bc40cc68f337cae8c8480da877e931b4",
     "/polyfills-es2015.4d31cca2afc45cfd85b5.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
     "/polyfills-es5.2219c87348e60efc0076.js": "6c9688c6586bfcf669879655ba5874ef1d2b4bcf",
     "/runtime-es2015.14aa3f52323dd9f0d66d.js": "bc0380dddce4dc87fb72abf4e5587c8335cdb592",
     "/runtime-es5.cccab83dd12456bbc2bb.js": "c6f0fb4bd0d5d3f06861881d44db97d24e24705b",
-    "/styles.9f3aff64c9f83055277d.css": "59670a8bb72e199e97604db3fc849fc61829d9a4",
+    "/scripts.7f97e359278274fc36f7.js": "7a82cf09da9ff26f220c4809ee99da9b93bb89c5",
+    "/styles.82128bfa6924a94054f0.css": "cdfa3ffa9a1d592c9b264b28b818859d4fbd69a8",
     "/user.cd45fcb7cd1b26d87cc8.gif": "5fb2bc2ffed5fbf2147721cee71a739e80850ab8"
   },
   "navigationUrls": [

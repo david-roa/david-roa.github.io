@@ -64,6 +64,8 @@ MIT
 
 @angular/fire/database
 
+@angular/fire/firestore
+
 @angular/fire/messaging
 
 @angular/fire/storage
@@ -353,6 +355,9 @@ Apache-2.0
 @firebase/database
 Apache-2.0
 
+@firebase/firestore
+Apache-2.0
+
 @firebase/logger
 Apache-2.0
 
@@ -363,6 +368,9 @@ Apache-2.0
 Apache-2.0
 
 @firebase/util
+Apache-2.0
+
+@firebase/webchannel-wrapper
 Apache-2.0
 
 angular-froala-wysiwyg
@@ -396,6 +404,8 @@ firebase/app
 firebase/auth
 
 firebase/database
+
+firebase/firestore
 
 firebase/messaging
 

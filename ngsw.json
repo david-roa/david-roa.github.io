@@ -1,7 +1,7 @@
 {
   "configVersion": 1,
-  "timestamp": 1565235251131,
-  "index": "/index.html",
+  "timestamp": 1565994237964,
+  "index": "/dev/pwa/index.html",
   "assetGroups": [
     {
       "name": "app",
@@ -10,6 +10,7 @@
       "urls": [
         "/3-es5.7f83cbca468ee6b1d9de.js",
         "/4-es2015.634e0c984c8f27d7b31e.js",
+        "/david.ico",
         "/firebase-messaging-sw.js",
         "/index.html",
         "/main-es2015.a85ac82eeaf9fa9c5960.js",
@@ -3394,6 +3395,7 @@
     "/assets/image/david-profile-photo.jpeg": "6fc7f059b64bb62a495b428575dda8fae69a20e9",
     "/assets/image/user.gif": "5fb2bc2ffed5fbf2147721cee71a739e80850ab8",
     "/david-logo-banner.5f1633152c5326805264.png": "e52267388052eaa3ebb555ff6bbba6c4dd1f4c4d",
+    "/david.ico": "77b660038a427095d8b0e8d1d9bd457feb86cef0",
     "/firebase-messaging-sw.js": "259ba18f002027feae2e03ada95b025598e3d55e",
     "/index.html": "1772e9ae7693340058db8d17572aee874603150f",
     "/main-es2015.a85ac82eeaf9fa9c5960.js": "bbc5bbe905342d7a5f8543a18c95ce807a116996",
